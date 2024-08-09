@@ -3,7 +3,7 @@
 ## Meu nome é _`Moises Souza Santos`_
 
 - Estou iniciando meus estudos com o auxílio do gitbub;
-- Estou estudando na [Alura](https://www.alura.com.br)
+<!-- - Estou estudando na [Alura](https://www.alura.com.br) -->
 - Utilizarei este recurso para compartilhar meus scripts 💢 com outros programadores.
 - 
   ### Você pode entrar em contato comigo 📫
